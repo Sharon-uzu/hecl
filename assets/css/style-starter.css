@@ -18959,7 +18959,7 @@ a.dropdown-item.active {
     .w3l-main-slider .banner-top2,
     .w3l-main-slider .banner-top3,
     .w3l-main-slider .banner-top4 {
-        min-height: 400px;
+        min-height: 450px;
     }
 
     .w3l-main-slider h5 {
@@ -19049,6 +19049,11 @@ section.w3l-passion-mid-sec {
 
 .w3l-features .icon i {
     font-size: 38px;
+    color: var(--primary-color);
+}
+
+.w3l-features .icons i {
+    font-size: 20px;
     color: var(--primary-color);
 }
 
@@ -19325,6 +19330,10 @@ ul.gallery_agile li {
 .w3l-index5 h6.title-subw3hny {
     color: var(--primary-color);
     padding-bottom: 30px;
+}
+
+.title-header {
+    color: var(--primary-color);
 }
 
 .w3l-index5 h6.title-subw3hny:after {
